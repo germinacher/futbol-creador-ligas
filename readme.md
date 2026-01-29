@@ -52,7 +52,7 @@ El sistema permite crear ligas, equipos y partidos, registrar resultados y visua
 ![Equipos](assets/screenshots/agregar_equipo.png)
 
 ### 🏟 Registrar partido
-![Registrar](assets/screenshots/registar_partido.png)
+![Registrar](assets/screenshots/registrar_partido.png)
 
 ### 📅 Registro de partidos
 ![Partidos](assets/screenshots/partidos.png)
