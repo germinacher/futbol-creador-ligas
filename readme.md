@@ -35,7 +35,7 @@ El sistema permite crear ligas, equipos y partidos, registrar resultados y visua
 2. Copiar el proyecto dentro de la carpeta `htdocs` de XAMPP
 3. Importar la base de datos MySQL
 4. Iniciar Apache y MySQL desde XAMPP
-5. Acceder desde el navegador a `http://localhost/nombre-del-proyecto`
+5. Acceder desde el navegador a `http://localhost/futbol-creador-ligas`
 
 ---
 
