@@ -39,6 +39,32 @@ El sistema permite crear ligas, equipos y partidos, registrar resultados y visua
 
 ---
 
+## 🖼 Capturas de la aplicación
+> 
+
+### ⚽ Menú de bienvenida
+![Bienvenida](assets/screenshots/bienvenida.png)
+
+### 🔐 Inicio de sesión
+![Login](assets/screenshots/login.png)
+
+### 👥 Agregar equipo
+![Equipos](assets/screenshots/agregar_equipo.png)
+
+### 🏟 Registrar partido
+![Registrar](assets/screenshots/registar_partido.png)
+
+### 📅 Registro de partidos
+![Partidos](assets/screenshots/partidos.png)
+
+### 📊 Tabla de posiciones
+![Tabla](assets/screenshots/tabla_posiciones.png)
+
+### 📱 Diseño adaptable a móviles
+![Movil](assets/screenshots/movil.png)
+
+---
+
 ## 🎯 Objetivo del proyecto
 
 Facilitar la gestión de ligas locales de fútbol mediante una plataforma web intuitiva, permitiendo a cualquier usuario llevar el control de sus torneos sin necesidad de conocimientos técnicos.
